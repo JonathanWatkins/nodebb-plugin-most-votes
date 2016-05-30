@@ -1,0 +1,55 @@
+{
+  "name": "nodebb-plugin-most-votes",
+  "version": "0.2.3",
+  "description": "Highlights most voted for reply",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanWatkins/nodebb-plugin-most-votes.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "quickstart",
+    "shell"
+  ],
+  "author": {
+    "name": "jmtrik",
+    "email": "jmtrik@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonathanWatkins/nodebb-plugin-most-votes/issues"
+  },
+  "nbbpm": {
+    "compatibility": "^0.6.0 || ^0.7.0 || ^0.8.0"
+  },
+  "gitHead": "d40d65362576a3534966721f358ddd15dc6a54f1",
+  "homepage": "https://github.com/JonathanWatkins/nodebb-plugin-most-votes#readme",
+  "_id": "nodebb-plugin-most-votes@0.2.3",
+  "scripts": {},
+  "_shasum": "cc3b18367d8e8e763786498dca67566bac87f780",
+  "_from": "nodebb-plugin-most-votes@latest",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "julianlam",
+    "email": "julian@designcreateplay.com"
+  },
+  "maintainers": [
+    {
+      "name": "psychobunny",
+      "email": "psycho.bunny@hotmail.com"
+    },
+    {
+      "name": "julianlam",
+      "email": "julian@designcreateplay.com"
+    }
+  ],
+  "dist": {
+    "shasum": "cc3b18367d8e8e763786498dca67566bac87f780",
+    "tarball": "https://registry.npmjs.org/nodebb-plugin-quickstart/-/nodebb-plugin-quickstart-0.2.3.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-quickstart/-/nodebb-plugin-quickstart-0.2.3.tgz"
+}
